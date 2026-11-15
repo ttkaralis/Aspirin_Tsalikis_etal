@@ -1,2 +1,6 @@
-# Aspirin_Tsalikis_et.al.
+# Dietary omega-6:omega-3 fats and aspirin regulate PI3Kα-induced oncogenicity
+
 Data analysis for Tsalikis et.al.
+
+
+Repurposing widely available medicines and dietary interventions offers a potential route to more accessible, precision cancer therapies, but progress is limited by incomplete understanding of factors that determine treatment response. Mutations in PIK3CA, one of the genes most commonly altered in cancer, have been associated with increased benefit from aspirin, yet the underlying mechanism remains unresolved. Here, we show that aspirin preferentially suppresses PIK3CA-mutant cancer models through a mechanism distinct from its established action on cyclooxygenase (COX) enzymes: it acetylates and inhibits calcium-dependent phospholipase A2 (cPLA2), an enzyme that releases arachidonic acid from cell membranes. We further show that the dietary omega-6:omega-3 (ω-6/ω-3) fatty-acid ratio modulates this response: a low ratio enhances, whereas a high ratio attenuates, aspirin sensitivity. These findings uncover an acetylation-dependent mechanism through which aspirin targets PIK3CA-mutant tumours and identify dietary fatty-acid balance as a modifiable determinant of its anti-tumour activity.
